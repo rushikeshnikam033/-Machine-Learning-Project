@@ -1,4 +1,0 @@
-Numpy
-pandas
-matplotlib
-seaborn
